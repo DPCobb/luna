@@ -1,0 +1,31 @@
+{
+  "name": "luna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "fetch": "^1.1.0",
+    "geolocation": "^0.2.0",
+    "jquery": "^3.3.1",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "node-fetch": "^2.1.2",
+    "node-where": "^1.1.0",
+    "node-wit": "^5.0.0",
+    "recastai": "^3.7.0",
+    "request": "^2.85.0",
+    "sequelize": "^4.37.6",
+    "socket.io": "^2.1.0",
+    "wemo-client": "^0.15.0"
+  }
+}
